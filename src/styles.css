@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.letter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  max-width: 600px; /* Adjust this width as needed */
+}
+
+.letter-buttons button {
+  /* Add any other styles you want for the buttons */
+}
